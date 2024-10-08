@@ -1,11 +1,12 @@
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="github.png" alt="GitHub Star 2023"/></a>
+    <img src="githubb.png" alt="GitHub Star 2023"/></a>
 </p>
-🔭 I’m currently working on my portfolio<br>
-👯 I’m looking to collaborate on projects <br>
-🌱 I’m currently learning  **AI/ML**<br>
-⚡ Fun fact-I am lazy but labourious
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Open%20Source%20Contributer;AI/ML%20Enthusiast%20;Passionate%20in%20Problem%20Solving;Interested%20in%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 
 

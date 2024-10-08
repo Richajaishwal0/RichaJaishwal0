@@ -1,9 +1,11 @@
+![image](https://github.com/user-attachments/assets/098c82e0-7b3d-47ab-b941-6749d4334dd3)
 
-<p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="Welcome"/></a>
-</p>
-🔭 I’m currently working on my portfolio<br>👯 I’m looking to collaborate on projects <br>🌱 I’m currently learning  **AI/ML**<br>⚡ Fun fact-I am lazy but labourious
+![image](https://github.com/user-attachments/assets/a84c08d5-e6af-4348-bc60-6fe881063b03)
+
+🔭 I’m currently working on my portfolio<br>
+👯 I’m looking to collaborate on projects <br>
+🌱 I’m currently learning  **AI/ML**<br>
+⚡ Fun fact-I am lazy but labourious
 
 
 ## 🌐 Socials:
@@ -16,7 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Richajaishwal0&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Richajaishwal0&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=Richajaishwal0&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote

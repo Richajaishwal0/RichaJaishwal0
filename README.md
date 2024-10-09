@@ -1,6 +1,6 @@
 <p align="center">
     <img src="githubb.png" alt="GitHub Star 2023"/></a>
-
+</p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">

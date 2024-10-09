@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
     <img src="githubb.png" alt="GitHub Star 2023"/></a>
 </p>
 <p align="center">

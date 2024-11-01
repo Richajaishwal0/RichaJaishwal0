@@ -5,12 +5,10 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20Welcome%20to%20my%20page;Full-stack%20web%20developer;Open%20Source%20Contributer;AI/ML%20Enthusiast%20;Passionate%20in%20Problem%20Solving;Interested%20in%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <p align="center">
-  <a href="http://sanjaykv.com/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/sanjay-k-v/">LinkedIn</a> - 
-  <a href="https://x.com/sanjay_kv_">Twitter</a> -
-  <a href="https://recodehive.com/">Website</a> -
-  <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
-  <a href="https://topmate.io/sanjaykv/">Contact me</a> 
+  <a href="https://richajaishwal0.github.io/">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/richa-jaishwal/">LinkedIn</a> - 
+  <a href="https://x.com/RichaJaisw82851">Twitter</a>
+  <a  href="mailto:richajaiswalhome@gmail.com">Contact me</a> 
 </p>
 
 

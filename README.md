@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://richajaishwal0.github.io/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/richa-jaishwal/">LinkedIn</a> - 
-  <a href="https://x.com/RichaJaisw82851">Twitter</a>
+  <a href="https://x.com/RichaJaisw82851">Twitter</a> - 
   <a  href="mailto:richajaiswalhome@gmail.com">Contact me</a> 
 </p>
 

@@ -26,9 +26,6 @@ Techstacks
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-## Certification Badges 🪶
-![image](https://github.com/user-attachments/assets/f857ed7a-5e9c-4926-96bc-43408b0e8008)
-
 Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
 <img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
@@ -62,15 +59,30 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Richajaishwal0&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Richajaishwal0&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<summary><b>⚙️ GitHub Analytics</b></summary>
+<a href="https://github.com/Richajaishwal0">
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=richajaishwal0&theme=github_dark" alt="Richa Ijaishwal github stats" />
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=richajaishwal0&theme=github_dark" alt="Richa jaishwal github stats" />
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=richajaishwal0&theme=github_dark&utcOffset=8" alt="Richa jaishwal github stats" />
+
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richajaishwal0&theme=github_dark" alt="Richa jaishwal github stats" />
+  
+
+
+<br>
+     
+
 ## 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=Richajaishwal0&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+
+
+### ✍️ Today's highlights
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Richajaishwal0&icon=5&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 

@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: Richajaishwal0/RichaJaishwal0@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{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}}
           USERNAME: ${{ Richajaishwal0}}
       - name: Commit & Push
         run: |

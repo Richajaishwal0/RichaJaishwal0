@@ -104,9 +104,10 @@
 <details>
 <summary><b>🏆 GitHub Trophies</b></summary>
 
-![](https://github-profile-trophy.vercel.app/?username=Richajaishwal0&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=richajaishwal0&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 </details>
+
 
 
 

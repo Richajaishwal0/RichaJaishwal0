@@ -68,38 +68,46 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="InVision" width="40" height="40"/>
 </div>
+<hr>
+<details>
+<summary><b>GSSOC(24) Badges 🪶</b></summary>
 
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<div align='center' style='display:flex; align-items:center; gap: 10px;'>
+<a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+</a>
 </div>
-  
 
-![image](https://github.com/user-attachments/assets/49a51f04-4e8f-403d-a1f6-2582ee023d7a)
+</details>
 
+<details>
+<summary><b>⚙️ GitHub Analytics</b></summary>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Richajaishwal0&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Richajaishwal0&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Richajaishwal0&theme=neon&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Richajaishwal0&theme=neon&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Richajaishwal0&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/Richajaishwal0">
-    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=richajaishwal0&theme=github_dark" alt="Richa Ijaishwal github stats" />
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=richajaishwal0&theme=github_dark" alt="Richa jaishwal github stats" />
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=richajaishwal0&theme=github_dark&utcOffset=8" alt="Richa jaishwal github stats" />
+<img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=richajaishwal0&theme=github_dark" />
+<img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=richajaishwal0&theme=github_dark" />
+<img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=richajaishwal0&theme=github_dark&utcOffset=8" />
+<img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richajaishwal0&theme=github_dark" />
+</a>
+</details>
 
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richajaishwal0&theme=github_dark" alt="Richa jaishwal github stats" />
-<br>
- 
-## 🏆 GitHub Trophies 
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+
 ![](https://github-profile-trophy.vercel.app/?username=Richajaishwal0&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+</details>
+
 
 
 <h3 align="left">Support:</h3>

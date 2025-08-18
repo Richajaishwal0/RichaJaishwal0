@@ -110,9 +110,12 @@
 
 
 
-
-<h3 align="left">Support:</h3>
+<details> 
+<summary><b>Support</b></summary>
+  
 <p><a href="https://www.buymeacoffee.com/richajaishwal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="richajaishwal" /></a></p><br><br>
+
+</details>
 
 ### ✍️ Today's highlights
 

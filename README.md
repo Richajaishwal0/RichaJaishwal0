@@ -20,7 +20,8 @@
 - 👯 I’m looking to collaborate on [Trip Assistant](https://github.com/Richajaishwal0/Trip_assistant)
 
 
-
+<details>
+<summary><b>Skills</b></summary>
 <!-- Languages, Tools and Frameworks -->
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 6px; font-size: 14px;">
   <p style="margin: 0;">Languages, Tools and Frameworks:</p>
@@ -70,9 +71,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </div>
-
-
-<hr>
+</details>
 <details>
 <summary><b>GSSOC(24) Badges 🪶</b></summary>
 
